@@ -24,12 +24,12 @@ O programa solicita três números ao usuário utilizando o input. Depois, os va
 ### 🪻 Exercício 3
 Faça um algoritmo que imprima o nome digitado pelo usuário na vertical, em escada.
 Exemplo:
-N
-NI
-NIC
-NICO
-NICOL
-NICOLI
+- N
+- NI
+- NIC
+- NICO
+- NICOL
+- NICOLI
 
 <img width="281" height="78" alt="image" src="https://github.com/user-attachments/assets/b0693aa9-613f-4f61-9382-4868bc7c41c3" />
 
