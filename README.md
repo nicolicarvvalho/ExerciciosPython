@@ -89,7 +89,7 @@ Escreva um programa que imprima as seguintes informações:
 O programa trabalha com a lista utilizando funções como lem(), max(), min(), sort() e sum(). Além disso, os valores são organizados em ordem crescente de decrescente utilizando métodos de ordenação.
 
 ### 🌻 Exercício 9
-Crie um dicionário com base na tabela:
+Crie um dicionário com base na tabela ⬆️
 <img width="314" height="175" alt="image" src="https://github.com/user-attachments/assets/d139b98a-8b73-4fa8-a98a-77dade3d6568" />
 
 <img width="517" height="136" alt="image" src="https://github.com/user-attachments/assets/2539e627-61b5-4276-a4d7-aeb681fc49fb" />
