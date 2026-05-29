@@ -57,7 +57,7 @@ Faça um programa que leia e valide as seguintes informações:
 
 Neste exercício, foram utilizadas estruturas de repetição para validar os dados digitados pelo usuário. O programa verifica se as informações atendem aos critérios definidos, como o nome, a idade, o salário, o sexo e o estado civil.
 
-### 🏵️ Exercício 6
+### 🦩 Exercício 6
 Faça um programa que determine se um número é primo
 
 <img width="345" height="166" alt="image" src="https://github.com/user-attachments/assets/806f373f-0c83-4eb9-8a5d-6e28fe4c2690" />
