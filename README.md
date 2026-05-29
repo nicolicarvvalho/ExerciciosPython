@@ -1,5 +1,5 @@
 # 🌷 Exercícios em Pyhton
-## 🌼 Este repositório foi desenvolvido durante as aulas de Lógia de Programação e Algoritmos utilizando a linguagem Python. Os exercícios fora, feitos com foco no desenvolvimento da lógica de programação, estruturas de repetição, listas, condicionais e manipulação de dados.
+## 🌼 Este repositório foi desenvolvido durante as aulas de Lógica de Programação e Algoritmos utilizando a linguagem Python. Os exercícios foram, desenvolvidos com foco no desenvolvimento da lógica de programação, estruturas de repetição, listas, condicionais e manipulação de dados.
 
 ### Tecnologias Utilizadas:
 - Python
@@ -19,7 +19,7 @@ Escreva um script que leia três números e mostre o maior e o menor deles utili
 <img width="371" height="166" alt="image" src="https://github.com/user-attachments/assets/27934ed5-d695-43c6-aa99-59db9bcc1fe0" />
 
 
-O programa solicita três números ao usuário utilizando o input. Depois, os valores são armazenados dentro de uma lista e as funções mat() e min() são utilizadas para encontrar o maior e o menor número digitado
+O programa solicita três números ao usuário utilizando o input. Depois, os valores são armazenados dentro de uma lista e as funções max() e min() são utilizadas para encontrar o maior e o menor número digitado
 
 ### 🪻 Exercício 3
 Faça um algoritmo que imprima o nome digitado pelo usuário na vertical, em escada.
@@ -34,10 +34,10 @@ NICOLI
 <img width="281" height="78" alt="image" src="https://github.com/user-attachments/assets/b0693aa9-613f-4f61-9382-4868bc7c41c3" />
 
 
-Neste exercício, foi utilizado a loçao for para percorrer as letras do nome digitado. A cada repetição, o programa imprime uma parte do nome, formando o efeito de escada na vertical.
+Neste exercício, foi utilizado a loço for para percorrer as letras do nome digitado. A cada repetição, o programa imprime uma parte do nome, formando o efeito de escada na vertical.
 
 ### 🌻 Exercício 4
-Faça um programa que seja capaz de gerar a sequeência de Fibonacci até o n-ésimo termo.
+Faça um programa que seja capaz de gerar a sequência de Fibonacci até o n-ésimo termo.
 
 <img width="396" height="156" alt="image" src="https://github.com/user-attachments/assets/eb7ac82e-24b8-49b5-b155-f6a0b7533159" />
 
@@ -110,8 +110,8 @@ Faça um programa que mostre a tabuada de um número de 1 a 10.
 <img width="426" height="123" alt="image" src="https://github.com/user-attachments/assets/425f2731-ed2d-4cf9-ba18-9a6de4e6c59d" />
 
 
-Neste exercício, o programa solicita um número ao usuário  utiliza o laço for para gerar a tabuada correspondente de forma auomática.
+Neste exercício, o programa solicita um número ao usuário  utiliza o laço for para gerar a tabuada correspondente de forma automática.
 
 
 ### 💐 Considerações Finais
-A realização dos exercícios contribuiu para o desenvolvimento da lógica de programação, resolução de problemas e prática com estruturas da linguagem Python. Além disso, o projeto ajudou no aprendizado de laçoes de repetição, listas, dicionários, condições e validação de informações.
+A realização dos exercícios contribuiu para o desenvolvimento da lógica de programação, resolução de problemas e prática com estruturas da linguagem Python. Além disso, o projeto ajudou no aprendizado de laços de repetição, listas, dicionários, condições e validação de informações.
